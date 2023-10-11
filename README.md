@@ -2,7 +2,7 @@
   Hi, Nice to meet you.
 </h1>
 <h3 align="center">
-  I am a Full Stack & Blockchain Developer.
+  I am a Frontend & Blockchain Developer.
 </h3>
 
 <div align="center">
@@ -15,7 +15,7 @@
   <table>
     <tr>
       <td valign="center" width="100px"><b>Frontend<b></td>
-      <td valign="center" width="100px"><b>Backend<b></td>
+      <td valign="center" width="100px"><b>Blockchain<b></td>
       <td valign="center" width="100px"><b>Dev<b></td>
     </tr>
     <tr>
@@ -33,22 +33,16 @@
         <img src="https://img.shields.io/badge/Nuxt-blue" /> 
         <img src="https://img.shields.io/badge/Shopify-blue" /> 
         <img src="https://img.shields.io/badge/Chart.js-blue" />
-      </td>      
+      </td>
       <td valign="center" align="center" width="300px">
-        <img src="https://img.shields.io/badge/Django-blue" /> 
-        <img src="https://img.shields.io/badge/Python-blue" /> 
-        <img src="https://img.shields.io/badge/Selenium-blue" />        
-        <img src="https://img.shields.io/badge/Ruby-blue" /> 
-        <img src="https://img.shields.io/badge/Rails-blue" /> 
-        <img src="https://img.shields.io/badge/BeautifulSoup-blue" /> 
-        <img src="https://img.shields.io/badge/Pandas-blue" /> 
-        <img src="https://img.shields.io/badge/Numpy-blue" /> 
-        <img src="https://img.shields.io/badge/Flask-blue" /> 
-        <img src="https://img.shields.io/badge/PHP-blue" /> 
-        <img src="https://img.shields.io/badge/Laravel-blue" /> 
-        <img src="https://img.shields.io/badge/Node.js-blue" /> 
-        <img src="https://img.shields.io/badge/Express-blue" /> 
-        <img src="https://img.shields.io/badge/Nest.js-blue" /> 
+        <img src="https://img.shields.io/badge/Web3.js-blue" /> 
+        <img src="https://img.shields.io/badge/Solidity-blue" /> 
+        <img src="https://img.shields.io/badge/Ethers.js-blue" /> 
+        <img src="https://img.shields.io/badge/Solana-blue" /> 
+        <img src="https://img.shields.io/badge/Golang-blue" /> 
+        <img src="https://img.shields.io/badge/Rust-blue" /> 
+        <img src="https://img.shields.io/badge/Smart Contract-blue" /> 
+        <img src="https://img.shields.io/badge/Bitcoin-blue" />
       </td>
       <td valign="center" align="center" width="300px">
         <img src="https://img.shields.io/badge/AWS-blue" /> 
@@ -67,20 +61,26 @@
   
  <table>
     <tr>
-      <td valign="center" width="100px"><b>Blockchain<b></td>
+      <td valign="center" width="100px"><b>Backend<b></td>
       <!-- <td valign="center" width="100px"><b>Design<b></td> -->
     </tr>
-    <tr>
       <td valign="center" align="center" width="300px">
-        <img src="https://img.shields.io/badge/Web3.js-blue" /> 
-        <img src="https://img.shields.io/badge/Solidity-blue" /> 
-        <img src="https://img.shields.io/badge/Ethers.js-blue" /> 
-        <img src="https://img.shields.io/badge/Solana-blue" /> 
-        <img src="https://img.shields.io/badge/Golang-blue" /> 
-        <img src="https://img.shields.io/badge/Rust-blue" /> 
-        <img src="https://img.shields.io/badge/Smart Contract-blue" /> 
-        <img src="https://img.shields.io/badge/Bitcoin-blue" />
+        <!-- <img src="https://img.shields.io/badge/Django-blue" /> 
+        <img src="https://img.shields.io/badge/Python-blue" /> 
+        <img src="https://img.shields.io/badge/Selenium-blue" />        
+        <img src="https://img.shields.io/badge/Ruby-blue" /> 
+        <img src="https://img.shields.io/badge/Rails-blue" /> 
+        <img src="https://img.shields.io/badge/BeautifulSoup-blue" /> 
+        <img src="https://img.shields.io/badge/Pandas-blue" /> 
+        <img src="https://img.shields.io/badge/Numpy-blue" /> 
+        <img src="https://img.shields.io/badge/Flask-blue" /> 
+        <img src="https://img.shields.io/badge/PHP-blue" /> 
+        <img src="https://img.shields.io/badge/Laravel-blue" />  -->
+        <img src="https://img.shields.io/badge/Node.js-blue" /> 
+        <img src="https://img.shields.io/badge/Express-blue" /> 
+        <img src="https://img.shields.io/badge/Nest.js-blue" /> 
       </td>
+    <tr>
      <!-- <td valign="center" align="center" width="300px">
        <img src="https://img.shields.io/badge/Photoshop-blue" /> 
        <img src="https://img.shields.io/badge/Adobe XD-blue" /> 
